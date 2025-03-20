@@ -9,5 +9,8 @@ package control.de.versiones;
  * @author dam
  */
 public class Segunda {
-    
+ 
+    public void exx(){
+        System.out.println(" rama final");
+    }
 }
